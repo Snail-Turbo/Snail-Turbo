@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Snail-Turbo
 - 👀 I’m interested in coding, reading and pondering.
-- 🌱 I’m currently learning machine vision and deep learning.
+- 🌱 I’m currently learning everything.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me? Ha
 
