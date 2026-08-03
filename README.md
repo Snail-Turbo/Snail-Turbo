@@ -1,12 +1,7 @@
-# Snail-Turbo
+# Snail-Turbo (Li Yiyang)
 
-- 👋 你好，我是 Snail-Turbo。
-- 👀 关注方向：算法、工程实践、持续学习。
-- 🌱 目前状态：持续学习中。
-- 💞️ 欢迎交流：编程学习、面试经验、项目协作。
-- Gitee：<https://gitee.com/yang_public>
+- 👋 Hi, I'm Snail-Turbo — CS Master's student at Shandong University, graduating **June 2027**.
+- 🎯 **Open to 2027 new-grad opportunities**.
 
-<!---
-Snail-Turbo/Snail-Turbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔧 Currently exploring open-source development.
+- 🔗 Gitee: https://gitee.com/yang_public
